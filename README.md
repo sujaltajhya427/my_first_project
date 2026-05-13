@@ -1,2 +1,3 @@
 # my_first_project
-First project of my bachelor degree.
+heres my first project. weather app
+
